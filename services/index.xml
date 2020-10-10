@@ -21,5 +21,14 @@
 Download now       </description>
     </item>
     
+    <item>
+      <title>FaciliCenter</title>
+      <link>/services/facilicenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/facilicenter/</guid>
+      <description>Facility issue reporting and tasks management Modern alternative to paper grids and clumsy phone assistance   FaciliCenter Software Solution supports real-time interaction between you and the users of your facilities and any self-service or shared equipment. With FaciliCenter Software Solution, you&amp;rsquo;re not only very reactive to users’ issue reporting and reviews, but you can also be proactive by planning cleaning and maintenance tasks and handling any issues or deviations from the planned tasks.</description>
+    </item>
+    
   </channel>
 </rss>
