@@ -6,7 +6,7 @@
     <description>Recent content in Home on Terpomo Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2020 23:02:46 +1000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,22 +22,22 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     </item>
     
     <item>
-      <title>Symptoms Assistant</title>
-      <link>/services/symptoms/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/services/symptoms/</guid>
-      <description>  We like to think of Symptoms Assistant as our contribution to the community. This App allows you to record the most common symptoms (e.g. coughing, sneezing, fever) along with the most common vital signs (e.g. pulse, temperature, blood sugar) and track their progress over a period of time from one to 30 days. 
-Download now       </description>
-    </item>
-    
-    <item>
       <title>FaciliCenter</title>
       <link>/services/facilicenter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/services/facilicenter/</guid>
       <description>Facility issue reporting and tasks management Modern alternative to paper grids and clumsy phone assistance   FaciliCenter Software Solution supports real-time interaction between you and the users of your facilities and any self-service or shared equipment. With FaciliCenter Software Solution, you&amp;rsquo;re not only very reactive to users’ issue reporting and reviews, but you can also be proactive by planning cleaning and maintenance tasks and handling any issues or deviations from the planned tasks.</description>
+    </item>
+    
+    <item>
+      <title>Symptoms Assistant</title>
+      <link>/services/symptoms/</link>
+      <pubDate>Fri, 09 Oct 2020 23:02:46 +1000</pubDate>
+      
+      <guid>/services/symptoms/</guid>
+      <description>  We like to think of Symptoms Assistant as our contribution to the community. This App allows you to record the most common symptoms (e.g. coughing, sneezing, fever) along with the most common vital signs (e.g. pulse, temperature, blood sugar) and track their progress over a period of time from one to 30 days. 
+Download now       </description>
     </item>
     
     <item>
