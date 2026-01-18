@@ -1,1 +1,0 @@
-# TerpomoSoft.github.io
